@@ -1,8 +1,8 @@
 ############################################################################
 #
-# Project : Advanced Business Analytics and Project Management (Capstone)
+# Project : Insurance
 # Sponsor : -------- 
-# Authors: Jiby Babu, Nan Gong, Puneeth Rao, Wenying Teng
+# Authors: DataLab(__)
 #
 ###########################################################################
 
@@ -53,7 +53,7 @@ set.seed(1000)
 # Setting the directory while files are residing
 setwd("C:/Users/MasterYoda/Desktop/R")
 # read the "SwissRe_DataSet_Merged.csv" file
-MergedDeals <- read.csv("SwissRe_DataSet_Merged.csv",na.strings=c(""," ","NA"))
+MergedDeals <- read.csv("Sxxxxxxxx.csv",na.strings=c(""," ","NA"))
 
 ####################################
 # renaming the Column names in the #
